@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TechQuotes</string>
+    <string name="action_settings">Settings</string>
+    <string name="any_sufficiently_advanced_technology_is_indistinguishable_from_magic_by_arthur_clarke">Any sufficiently advanced technology is indistinguishable from magic: by Arthur Clarke</string>
+</resources>
